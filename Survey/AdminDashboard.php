@@ -269,6 +269,7 @@ $issue_query_sql = "SELECT * FROM issue_reports WHERE {$issue_where} ORDER BY cr
                     </a>
                 </div>
                 <h2>Reported Issues Log</h2>
+                    <--Comment-->
                 
                 
             </div>
