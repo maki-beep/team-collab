@@ -1,0 +1,8 @@
+So far ayan palang progress
+- Signup and Forgot Password Email To OTP ✓
+- Admin na hardcoded ✓
+- Some parts ng main dashboard ok na ✓
+- Admin dashboard may functionality na rin ✓
+
+
+pa validate nalang sa na miss out ko, at patulong ubos na credits ko haha
