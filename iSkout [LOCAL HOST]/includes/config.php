@@ -17,7 +17,7 @@ define('DB_CHARSET', 'utf8mb4');
 // Set this to the base URL of your installation.
 // XAMPP example:  http://localhost/ISkout
 // InfinityFree:   https://yoursubdomain.infinityfreeapp.com
-define('APP_URL', 'http://localhost/ISkout');
+define('APP_URL', 'http://localhost/ISkout [LOCAL HOST]');
 
 // ── PUP Email Domain ─────────────────────────────────────────
 define('PUP_EMAIL_DOMAIN', '@iskolar.pup.edu.ph');
